@@ -1,0 +1,45 @@
+{
+  "name": "wp-redux",
+  "version": "1.0.0",
+  "description": "Creates redux action creators and reducers from Wordpress wp-json api definitions.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LesterGallagher/wp-redux"
+  },
+  "homepage": "https://github.com/LesterGallagher/wp-redux",
+  "bugs": {
+    "url": "https://github.com/LesterGallagher/wp-redux/issues",
+    "email": "wp-redux-bugs@esstudio.site"
+  },
+  "author": {
+    "name": "Sem Postma",
+    "email": "spostma@esstudio.site",
+    "url": "https://esstudio.site"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.3.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^24.9.0",
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0",
+    "redux-thunk": "^2.3.0",
+    "whatwg-fetch": "^3.0.0"
+  },
+  "dependencies": {
+    "query-string": "^6.8.3",
+    "redux": "^4.0.4"
+  }
+}
