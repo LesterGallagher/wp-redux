@@ -4,9 +4,9 @@
   "description": "Creates redux action creators and reducers from Wordpress wp-json api definitions.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LesterGallagher/wp-redux"
+    "url": "https://github.com/sempostma/wp-redux"
   },
-  "homepage": "https://github.com/LesterGallagher/wp-redux",
+  "homepage": "https://github.com/sempostma/wp-redux",
   "bugs": {
     "url": "https://github.com/LesterGallagher/wp-redux/issues",
     "email": "wp-redux-bugs@esstudio.site"
